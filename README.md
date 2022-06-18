@@ -295,3 +295,9 @@ When working with a GitHub repository, you'll often need to identify yourself to
 
 -   [Amigoscode](https://www.youtube.com/watch?v=3fUbBnN_H2c)
 -   [SSH-key](https://www.youtube.com/watch?v=3aKda-oXWc8&t=261s)
+
+## useful extensions for VSC
+
+-   GitLens \*\* (makes menu for source control sidebar-menu)
+-   Git History
+-   Git Graph \*\*\* (for workflows)
