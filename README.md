@@ -268,6 +268,12 @@ git checkout -b <branch-name>
 git reset --soft HEAD~3
 ```
 
+-   open with vsc
+
+```bash
+code <folder-name>
+```
+
 -   rebase from main
 
 ```bash
