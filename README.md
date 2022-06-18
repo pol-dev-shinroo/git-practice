@@ -1,7 +1,5 @@
 # git and github
 
----
-
 ## What is git?
 
 <em><span style="color: #FF7F50; font-size: 26px">"GIt</span> is software for **tracking changes** in any set of files,</br> usually used for **coordinating work** among programmers collaboratively developing source code during software development<em><span style="color: #FF7F50; font-size: 26px">"</span></em></em>
@@ -19,8 +17,6 @@
 
 <span style="display: block; text-align: center;">![Git Push](https://user-images.githubusercontent.com/102004753/174426626-ccc09536-dee8-4810-b1c4-4051ab545fde.png)
 </span>
-
----
 
 ## git workflows
 
